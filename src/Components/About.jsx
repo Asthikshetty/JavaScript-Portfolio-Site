@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "https://images.unsplash.com/photo-1671347020855-8f35d210ee9a?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D";
 
 const imageAltText = "purple and blue abstract background";
 
@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Asthik Shetty is a dedicated Computer Science student at Visvesvaraya Technological University (VTU). With a strong foundation in web development, Asthik has honed skills in various programming languages and technologies. Proficient in HTML, CSS, JavaScript, and popular frameworks like React and Angular, Asthik has a knack for creating dynamic and responsive web applications. Additionally, experience with backend technologies such as Node.js and databases like MongoDB and MySQL complements a well-rounded skill set. Asthik is passionate about continuous learning and staying updated with the latest industry trends, making them a promising talent in the field of web development.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
